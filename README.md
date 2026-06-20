@@ -80,7 +80,6 @@ This staged execution mimics pipeline processing and improves computational orga
 ## 👥 Contributors
 
 * Daksh Gajjar
-* Raj Vyas
 
 ## 📜 License
 
